@@ -106,7 +106,7 @@ CLUSTERING
 3) https://medium.com/data-hackers/text-analytics-nlp-utilizando-python-aa902c338fe8
 
 
-## Other NLP Projects:
+## Other Projects on Politics:
 * https://github.com/ggnicolau/Project-5-NLP-SP-City-Hall
 * https://github.com/ggnicolau/Project-9-NER-SP-City-Hall
 * https://github.com/ggnicolau/Project-2-API_Secretaria-da-Fazenda
