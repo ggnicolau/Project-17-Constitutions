@@ -1,0 +1,188 @@
+1628980219814	geckodriver	INFO	Listening on 127.0.0.1:60675
+1628980222830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiz0deE"
+1628980223499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiz0deE\\search.json.mozlz4", (void 0)))
+1628980226082	Marionette	INFO	Listening on port 56173
+1628980226526	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+rified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1628986552465	geckodriver	INFO	Listening on 127.0.0.1:62441
+1628986555463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileLzpN0s"
+1628986556321	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileLzpN0s\\search.json.mozlz4", (void 0)))
+1628986559735	Marionette	INFO	Listening on port 58807
+1628986560218	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: 
+###!!! [Child][MessageChannel] Error: (msgtype=0x390158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA00001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA00001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA00001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+ain/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1629034701740	geckodriver	INFO	Listening on 127.0.0.1:55954
+1629034704754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileJKXtPG"
+1629034705200	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileJKXtPG\\search.json.mozlz4", (void 0)))
+1629034707575	Marionette	INFO	Listening on port 55962
+1629034707882	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\user\AppData\Local\Temp\rust_mozprofileJKXtPG\protections.sqlite
+1629059773427	Marionette	INFO	Stopped listening on port 55962
+ NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileHcZfma\\search.json.mozlz4", (void 0)))
+1629036059060	Marionette	INFO	Listening on port 53649
+1629036059086	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1629059766411	Marionette	INFO	Stopped listening on port 53649
+orrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-seaconsole.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: InvaliJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\user\AppData\Local\Temp\rust_mozprofileC3JDDJ\protections.sqlite
+1629059772656	Marionette	INFO	Stopped listening on port 59484
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ocal data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1629059766229	Marionette	INFO	Stopped listening on port 53077
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
