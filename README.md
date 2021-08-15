@@ -99,10 +99,11 @@ LET'S KEEP THE GOOD WORK!
 ## Technical Articles
 DATA
 1) https://www.constituteproject.org/constitutions?lang=en
+
 CLUSTERING
-2) http://brandonrose.org/clustering_mobile
-3) https://towardsdatascience.com/a-friendly-introduction-to-text-clustering-fa996bcefd04
-4) https://medium.com/data-hackers/text-analytics-nlp-utilizando-python-aa902c338fe8
+1) http://brandonrose.org/clustering_mobile
+2) https://towardsdatascience.com/a-friendly-introduction-to-text-clustering-fa996bcefd04
+3) https://medium.com/data-hackers/text-analytics-nlp-utilizando-python-aa902c338fe8
 
 
 ## Other NLP Projects:
