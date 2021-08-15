@@ -86,7 +86,8 @@ So, we have a graph which cluster countries by constitutional text similarity. I
 
 1) We need to debug and extract 20 Constitutions from important countries such as Germany that we couldn't automatize;
 2) Stemmatization didn't seem to work here. This happened before and from our experience sometimes it's better not to apply stem and you get a better result;
-3) We want to apply a Supervised or Semi-Supervised Model, such as XGBoost and CNN with BERT, or maybe Topic Modelling. We would like to try to add labels such type of government (parlamentarism, presidentialism, semi-presidentialism, absolutist monarchy, constitutional democracy), another label if it's a Republic or an Autocracy and another label by number of parties.
+3) We want to apply a Supervised or Semi-Supervised Model, such as XGBoost and CNN with BERT, or maybe Topic Modelling. We would like to try to add labels by type of government (parlamentarism, presidentialism, semi-presidentialism, absolutist monarchy, constitutional democracy), another boolean label if it's a Republic or an Autocracy and another categorical label by number of parties.
+3) We want to apply a Supervised or Semi-Supervised Model, such as XGBoost and CNN with BERT, or maybe Topic Modelling. We would like to try to add labels by type of government (parlamentarism, presidentialism, semi-presidentialism, absolutist monarchy, constitutional democracy), another boolean label if it's a Republic or an Autocracy and another categorical label by number of parties.
 
 LET'S KEEP THE GOOD WORK!
 
